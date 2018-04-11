@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+
+	.contact_messege {
+	    padding: 5px;
+	    margin-left: -10px;
+	}
+	.search_area {
+	    margin-top: -50px;
+	}
+	
+}
